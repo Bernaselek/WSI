@@ -1,3 +1,5 @@
 name: Berna 
 
-surname
+surname: Selek 
+
+fav color: blue and yellow 
